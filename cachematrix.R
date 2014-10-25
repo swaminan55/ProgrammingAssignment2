@@ -8,6 +8,11 @@
 ## Note:
 ## The functions cacheSolve and makeCacheMatrix together with its local functions 
 ## provide a means to cache the inverse of a matrix. 
+##
+## Reference:
+##  The makeCacheMatrix and the cacheSolve functions are modeled after the 
+##    makeVector and cacheMmeans functions provided with the programming 
+##    assignment document
 ## 
 
 ##
